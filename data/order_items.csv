@@ -1,0 +1,16 @@
+order_id,product_id,quantity
+O1,P1,1
+O1,P10,2
+O2,P5,1
+O3,P4,2
+O3,P2,1
+O4,P7,1
+O4,P8,1
+O5,P10,3
+O5,P11,1
+O5,P12,1
+O6,P3,1
+O7,P1,1
+O7,P6,1
+O8,P9,2
+O8,P12,1

@@ -1,0 +1,13 @@
+product_id,name,price,brand_id,category_id,vendor_id
+P1,Wireless Earbuds Pro,2499,B1,C1,V1
+P2,Smart Watch Active,3999,B1,C1,V2
+P3,Bluetooth Speaker Mini,1799,B1,C1,V1
+P4,LED Desk Lamp,899,B2,C3,V2
+P5,Air Fryer 5L,6499,B2,C3,V1
+P6,Induction Cooktop,2999,B2,C3,V2
+P7,Trail Running Shoes,3299,B3,C2,V2
+P8,Canvas Sneakers,1499,B3,C2,V1
+P9,Yoga Mat Thick,799,B3,C2,V2
+P10,Organic Oats 1kg,349,B4,C4,V3
+P11,Cold Pressed Peanut Butter,499,B4,C4,V3
+P12,Mixed Dry Fruits 500g,699,B4,C4,V3

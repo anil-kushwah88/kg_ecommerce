@@ -1,0 +1,9 @@
+order_id,customer_id,date,status
+O1,CU1,2026-08-01,Delivered
+O2,CU1,2026-08-15,Delivered
+O3,CU2,2026-08-03,Delivered
+O4,CU3,2026-08-10,Shipped
+O5,CU4,2026-08-12,Delivered
+O6,CU5,2026-08-20,Processing
+O7,CU2,2026-09-01,Shipped
+O8,CU3,2026-09-05,Delivered
